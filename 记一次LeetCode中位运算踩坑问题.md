@@ -1,13 +1,3 @@
----
-title: 记LeetCode中一次位运算踩坑问题
-top_img: https://s2.loli.net/2022/11/30/ZzOA8nkWU9pNmVC.jpg
-cover: https://s2.loli.net/2023/01/08/dke7wfDVY8TAvJQ.png
-date: 2023-1-8 21:53:36
-tags:
-  - 位运算
-categories: 小技巧
----
-
 原题在这：
 https://leetcode.cn/problems/count-number-of-homogenous-substrings/description/
 
