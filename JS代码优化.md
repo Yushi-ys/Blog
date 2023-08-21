@@ -38,7 +38,7 @@ JavaScript 中的面向对象中
 
 ![](https://yushi0703.oss-cn-nanjing.aliyuncs.com/Blog/20230821221230.png)
 
-#### for 循环优化
+#### 5. for 循环优化
 
 **这也是在算法题中经常出现的，缓存数组的 length**
 
